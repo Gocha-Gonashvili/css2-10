@@ -1,0 +1,861 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+padding: 64px 158px 368px 158px;
+background: #FFF;
+}
+
+main {
+padding: 96px;
+background: #E2F7FF;
+}
+
+#section {
+padding-bottom: 96px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#conteiner {
+max-width: 1280px;
+padding: 0px 32px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#blogPostCard {
+height: 804px;
+min-width: 320px;
+padding-bottom: 64px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#imageOnePng {
+border-radius: 16px;
+background: lightgray 50%;
+}
+
+#contentHead {
+margin-top: 20px;
+}
+
+#olivia {
+color: #6941C6;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px; 
+}
+
+#headingAndIcon {
+margin-top: 8px;
+margin-bottom: 8px;
+}
+
+#uxHeading {
+color: #181D27;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: 38px;
+width: 1168px;
+display: inline-block;
+
+vertical-align: middle;
+}
+
+#iconWarpOne {
+padding-top: 4px;
+margin-left:16px;
+vertical-align: middle;
+display: inline-block;
+}
+
+#arrowSvgOne {
+width: 24px;
+height: 24px;
+vertical-align: middle;
+}
+
+#howDo {
+overflow: hidden;
+color: #535862;
+text-overflow: ellipsis;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+
+#categoriesOne {
+margin-top:24px;
+}
+
+#buttonOne {
+padding: 8px 12px;
+border-radius:9999px;
+border: 1px solid #E9D7FE;
+background: #F9F5FF;
+color: #6941C6;
+text-align: center;
+font-family:  Inter;
+font-size:  14px;
+font-style: normal;
+font-weight: 500;
+line-height:  20px;
+}
+
+#buttonTwo {
+padding: 8px 12px;
+border-radius: 9999px;
+border: 1px solid #C7D7FE;
+background: #EEF4FF;
+margin-left: 8px;
+margin-right: 8px;
+color: #3538CD;
+text-align: center;
+font-family: Inter;
+font-size:  14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px);
+}
+
+#buttonThree {
+padding: 8px 12px;
+border-radius: 9999px;
+border: 1px solid #FCCEEE;
+background: #FDF2FA;
+color: #C11574;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+}
+
+#content {
+width: 1216px;
+margin-top: 64px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+
+
+/*card one*/
+
+
+
+
+
+
+
+
+
+#CardOne {
+max-width: 384px;
+margin-right: 28px;
+margin-bottom: 48px;
+vertical-align: middle;
+display: inline-block
+}
+
+
+#imageTwoPng {
+border-radius: 16px;
+background: lightgray 50%;
+height: 240px;
+}
+
+#CardOneContent {
+margin-top: 20px;
+display: inline-block;
+}
+
+#phonix {
+color: #6941C6;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px;
+}
+
+
+#headingAndIconTwo {
+margin-top: 8px;
+margin-bottom: 8px;
+display:inline-block;
+}
+
+#migration {
+color: #181D27;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 32px;
+width: 340px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#iconWarpTwo {
+padding-top: 4px;
+display: inline-block;
+vertical-align: middle;
+margin-left: 16px;
+}
+
+#arrowSvgTwo {
+width: 24px;
+height: 24px;
+}
+
+#linear {
+overflow: hidden;
+color: #535862;
+text-overflow: ellipsis;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+
+#categoriesTwo {
+margin-top: 24px;
+}
+
+#buttonFour {
+padding: 8px 12px;
+margin-right: 8px;
+border-radius: 9999px;
+border: 1px solid #B9E6FE;
+background: #F0F9FF;
+color: #026AA2;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; 
+}
+
+#buttonFive {
+padding: 8px 12px;
+margin-right: 8px;
+border-radius: 9999px;
+border: 1px solid #FCCEEE;
+background: #FDF2FA;
+color: #C11574;
+text-align: center;
+font-family:  Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px);
+}
+
+#buttonSix {
+padding: 8px 12px;
+border-radius: 9999px;
+border: 1px solid #FCCEEE;
+background: #FDF2FA;
+color: #C11574;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+}
+
+
+
+
+
+/*card Two*/
+
+
+
+
+
+#CardTwo {
+max-width: 384px;
+margin-right: 28px;
+margin-bottom: 48px;
+vertical-align: middle;
+display: inline-block
+}
+
+
+#imageThreePng {
+border-radius: 16px;
+background: lightgray 50%;
+height: 240px;
+}
+
+#CardThreeContent {
+margin-top: 20px;
+display: inline-block;
+}
+
+#lana {
+color: #6941C6;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px;
+}
+
+
+#headingAndIconThree {
+margin-top: 8px;
+margin-bottom: 8px;
+display:inline-block;
+}
+
+#build {
+color: #181D27;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 32px;
+width: 340px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#iconWarpThree {
+padding-top: 4px;
+display: inline-block;
+vertical-align: middle;
+margin-left: 16px;
+}
+
+#arrowSvgThree {
+width: 24px;
+height: 24px;
+}
+
+#theRise {
+overflow: hidden;
+color: #535862;
+text-overflow: ellipsis;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+
+#categoriesThree {
+margin-top: 24px;
+}
+
+#buttonSeven {
+padding: 8px 12px;
+margin-right: 8px;
+border-radius: 9999px;
+border: 1px solid #ABEFC6;
+background: #ECFDF3;
+color: #067647;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height:  20px;
+}
+
+#buttonEight {
+padding: 8px 12px;
+margin-right: 8px;
+border-radius: 9999px;
+border: 1px solid #FCCEEE;
+background: #FDF2FA;
+color: #C11574;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px);
+}
+
+
+
+
+/*card three */
+
+
+#CardThree {
+max-width: 384px;
+margin-bottom: 48px;
+vertical-align: middle;
+display: inline-block
+}
+
+
+#imageFourPng {
+border-radius: 16px;
+background: lightgray 50%;
+height: 240px;
+}
+
+#CardFourContent {
+margin-top: 20px;
+display: inline-block;
+}
+
+#alec {
+color: #6941C6;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px;
+}
+
+
+#headingAndIconFour {
+margin-top: 8px;
+margin-bottom: 8px;
+display:inline-block;
+}
+
+#bill {
+color: #181D27;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 32px;
+width: 340px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#iconWarpFour {
+padding-top: 4px;
+display: inline-block;
+vertical-align: middle;
+margin-left: 16px;
+}
+
+#arrowSvgFour {
+width: 24px;
+height: 24px;
+}
+
+#likeTo {
+overflow: hidden;
+color: #535862;
+text-overflow: ellipsis;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+
+#categoriesFour {
+margin-top: 24px;
+}
+
+#buttonNine {
+padding: 8px 12px;
+margin-right: 8px;
+border-radius: 9999px;
+border: 1px solid #E9D7FE;
+background: #F9F5FF;
+background: #F0F9FF;
+color: #6941C6;
+text-align: center;
+font-family:  Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+}
+
+#buttonTen {
+padding: 8px 12px;
+margin-right: 8px;
+border-radius: 9999px;
+border: 1px solid #D5D9EB;
+background: #F8F9FC;
+color: #363F72;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+}
+
+
+
+
+
+
+/*card four*/
+
+
+
+
+
+#CardFour {
+max-width: 384px;
+margin-right: 28px;
+vertical-align: middle;
+display: inline-block
+}
+
+
+#imageFivePng {
+border-radius: 16px;
+background: lightgray 50%;
+height: 240px;
+}
+
+#CardFiveContent {
+margin-top: 20px;
+display: inline-block;
+}
+
+#demi {
+color: #6941C6;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px;
+}
+
+
+#headingAndIconFive {
+margin-top: 8px;
+margin-bottom: 8px;
+display:inline-block;
+}
+
+#PMMental {
+color: #181D27;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 32px;
+width: 340px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#iconWarpFive {
+padding-top: 4px;
+display: inline-block;
+vertical-align: middle;
+margin-left: 16px;
+}
+
+#arrowSvgFive {
+width: 24px;
+height: 24px;
+}
+
+#mental {
+overflow: hidden;
+color: #535862;
+text-overflow: ellipsis;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+
+#categoriesFive {
+margin-top: 24px;
+}
+
+#buttonEleven {
+padding: 8px 12px;
+margin-right: 8px;
+border-radius: 9999px;
+border: 1px solid #B9E6FE;
+background: #F0F9FF;
+color: #026AA2;
+text-align: center;
+font-family: Inter;
+font-size:  14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+}
+
+#buttonTwelve {
+padding: 8px 12px;
+margin-right: 8px;
+border-radius: 9999px;
+border: 1px solid #C7D7FE;
+background: #EEF4FF;
+color: #3538CD;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+}
+
+#buttonTherteen {
+padding: 8px 12px;
+margin-right: 8px;
+border-radius: 9999px;
+border: 1px solid #F9DBAF;
+background: #FEF6EE;
+color: #B93815;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+}
+
+/*card five*/
+
+
+#CardFive {
+max-width: 384px;
+margin-right: 28px;
+vertical-align: middle;
+display: inline-block
+}
+
+
+#imageSixPng {
+border-radius: 16px;
+background: lightgray 50%;
+height: 240px;
+}
+
+#CardSixContent {
+margin-top: 20px;
+display: inline-block;
+}
+
+#candice {
+color: #6941C6;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px;
+}
+
+
+#headingAndIconSix {
+margin-top: 8px;
+margin-bottom: 8px;
+display:inline-block;
+}
+
+#whatIs {
+color: #181D27;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 32px;
+width: 340px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#iconWarpSix {
+padding-top: 4px;
+display: inline-block;
+vertical-align: middle;
+margin-left: 16px;
+}
+
+#arrowSvgSix {
+width: 24px;
+height: 24px;
+}
+
+#introduction {
+overflow: hidden;
+color: #535862;
+text-overflow: ellipsis;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+
+#categoriesSix {
+margin-top: 24px;
+}
+
+#buttonFourteen {
+padding: 8px 12px;
+margin-right: 8px;
+border-radius: 9999px;
+border: 1px solid #E9D7FE;
+background: #F9F5FF;
+color: #6941C6;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; 
+}
+
+#buttonFiftheen {
+padding: 8px 12px;
+margin-right: 8px;
+border-radius: 9999px;
+border: 1px solid #C7D7FE;
+background: #EEF4FF;
+color: #3538CD;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px);
+}
+
+
+
+
+/*card Six*/
+
+
+
+
+
+
+#CardSix {
+max-width: 384px;
+margin-top: 32px;
+vertical-align: middle;
+display: inline-block
+}
+
+
+#imageSevenPng {
+border-radius: 16px;
+background: lightgray 50%;
+height: 240px;
+}
+
+#CardSevenContent {
+margin-top: 20px;
+display: inline-block;
+}
+
+#natali {
+color: #6941C6;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px;
+}
+
+
+#headingAndIconSeven {
+margin-top: 8px;
+margin-bottom: 8px;
+display:inline-block;
+}
+
+#collaboration {
+color: #181D27;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 32px;
+width: 340px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#iconWarpSeven {
+padding-top: 4px;
+display: inline-block;
+vertical-align: top;
+margin-left: 16px;
+}
+
+#arrowSvgSeven {
+width: 24px;
+height: 24px;
+}
+
+#collaborationCan {
+overflow: hidden;
+color: #535862;
+text-overflow: ellipsis;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+
+#categoriesSeven {
+margin-top: 24px;
+}
+
+#buttonSixteen {
+padding: 8px 12px;
+margin-right: 8px;
+border-radius: 9999px;
+border: 1px solid #E9D7FE;
+background: #F9F5FF;
+color: #6941C6;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+}
+
+#buttonSeventeen {
+padding: 8px 12px;
+margin-right: 8px;
+border-radius: 9999px;
+border: 1px solid #C7D7FE;
+background: #EEF4FF;
+color: #3538CD;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px);
+}
